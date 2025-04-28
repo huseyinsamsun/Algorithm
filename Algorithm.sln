@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{18F7B066-64DA-4651-828A-F348149CC8BE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{FB1061CC-6396-4386-9FA7-443955F59735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinationOfAPhoneNumber", "LetterCombinationOfAPhoneNumber\LetterCombinationOfAPhoneNumber.csproj", "{6AF34F02-BA7A-4855-B868-A4734A5D5785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +18,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D3D0D089-B426-4672-A570-5DD5AB5DACE9} = {F938C234-FB6A-4F6E-8C5D-9D855B8E10B1}
 		{18F7B066-64DA-4651-828A-F348149CC8BE} = {F938C234-FB6A-4F6E-8C5D-9D855B8E10B1}
+		{6AF34F02-BA7A-4855-B868-A4734A5D5785} = {FB1061CC-6396-4386-9FA7-443955F59735}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D3D0D089-B426-4672-A570-5DD5AB5DACE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +29,9 @@ Global
 		{18F7B066-64DA-4651-828A-F348149CC8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F7B066-64DA-4651-828A-F348149CC8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F7B066-64DA-4651-828A-F348149CC8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF34F02-BA7A-4855-B868-A4734A5D5785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF34F02-BA7A-4855-B868-A4734A5D5785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF34F02-BA7A-4855-B868-A4734A5D5785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF34F02-BA7A-4855-B868-A4734A5D5785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
